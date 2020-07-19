@@ -1,0 +1,1 @@
+[{"proxy":"83.150.230.104:30001:tt4gan_yandex_ru:308d791735","action":0},{"proxy":"83.150.231.121:30001:tt4gan_yandex_ru:308d791735","action":0},{"proxy":"91.188.237.208:30001:tt4gan_yandex_ru:308d791735","action":0},{"proxy":"91.188.239.167:30001:tt4gan_yandex_ru:308d791735","action":0},{"proxy":"91.188.239.75:30001:tt4gan_yandex_ru:308d791735","action":0}]
