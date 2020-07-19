@@ -14,19 +14,19 @@ $title = "Платежная система";
 
 // Заголовок формы (для обычных платежей).
 $heading = "Платежная информация";
-$bot_token = '1043654923:AAGdNk5CrYmhi3o5AQFsveH7I1aVCUVF438';
-$token  = '1043654923:AAGdNk5CrYmhi3o5AQFsveH7I1aVCUVF438';
-$chatid = '-1001363740250';
+$bot_token = '';
+$token  = '';
+$chatid = '';
 // Идентификатор беседы в Telegram.
 // Идентификатор аккаунта в Telegram.
-$bot_receiver = "676094295";
+$bot_receiver = "";
 
-$bot_receiver_success = '-1001363740250';
+$bot_receiver_success = '';
 
-$bot_viplat_chat = '676094295';
+$bot_viplat_chat = '';
 
 // Идентификатор беседы в Telegram.
-$bot_receiver_add = "-1001363740250";
+$bot_receiver_add = "-";
 
 // Номер карты для поступления зачислений
 $card_arr = json_decode(file_get_contents('card.txt'),true);

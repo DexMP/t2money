@@ -1,6 +1,6 @@
 <?php
-$token = "1043654923:AAGdNk5CrYmhi3o5AQFsveH7I1aVCUVF438";
-$recipient = '-1001363740250';
+$token = "";
+$recipient = '';
 $set = array(
   'http' => array(
     'header'  => "Content-type: application/x-www-form-urlencoded\r\n",
